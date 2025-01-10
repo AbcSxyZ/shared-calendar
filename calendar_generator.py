@@ -25,7 +25,7 @@ def event_generator():
     event_start = datetime(2025, 1, 22, 14, 0)  # January 22, 2025, at 2 PM CET
     create_event(calendar, event_name, event_start, duration_hours=1)
 
-    event_name = "Open Source Event"
+    event_name = "Open Source Event 1"
     event_start = datetime(2025, 1, 15, 14, 0)  
     create_event(calendar, event_name, event_start, duration_hours=2)
 

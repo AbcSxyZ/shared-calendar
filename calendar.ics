@@ -1,28 +1,23 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DURATION:PT2H
-DTSTART:20250115T140000Z
-SUMMARY:Open Source Event 1
-UID:f365d10d-ca8b-4b6e-a437-577ea085026d@f365.org
+CATEGORIES:open science,open software
+DESCRIPTION:In his talk "Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities"\, Johan Linåker will present a study\, commissioned by the European Commission\, which delves into the structural configurations and strategic utilisation of Open Source Programme Offices (OSPOs) within the public sector domain\, with a specific focus on OSPOs within European Union (EU) member states\, Norway\, Liechtenstein\, and Iceland. The investigation is based on interviews conducted with 18 OSPO representatives across 16 cases. The study classifies OSPOs into six distinct archetypes\, providing insights into their organisational structures\, responsibilities\, and contributions to the adoption of Open Source Software (OSS). It also highlights the challenges encountered by OSPOs and provides recommendations for both policymakers and practitioners.
+DTEND:20250122T140000Z
+LOCATION:https://gfz-potsdam-de.zoom-x.de/meeting/register/u5EkcO-qrTorHtNVKBBBu_n2v9ajThXc9w-G
+DTSTART:20250122T130000Z
+SUMMARY:Public Sector Open Source Program Offices
+UID:5696a975-221a-473d-8749-142d40a01f2c@5696.org
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT2H
-DTSTART:20250117T140000Z
-SUMMARY:Open Source Constest
-UID:d2eb01ab-55c6-4be7-8a32-c6ae6db0a9cc@d2eb.org
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-DTSTART:20250119T140000Z
-SUMMARY:Open Source Constest 2
-UID:1e3c53c7-e492-4b2a-a459-8f984c096ba2@1e3c.org
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-DTSTART:20250122T140000Z
-SUMMARY:The 70th Helmholtz Open Science Online Seminar
-UID:832a7ae7-aa35-4fe3-b096-9e59661e6b45@832a.org
+CATEGORIES:open education,open data
+DESCRIPTION:Ceci est une description. Plus d'infos: https://love.com\n\nTest field 2
+DTEND:20250126T000000Z
+LOCATION:https://google.com
+DTSTART:20250125T183000Z
+SUMMARY:The Open Source Redefinition
+UID:41b1582b-f511-450c-86aa-432891f99e60@41b1.org
 END:VEVENT
 END:VCALENDAR

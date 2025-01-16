@@ -33,3 +33,8 @@ jobs:
 
       - name: Publish GitHub Pages
         uses: actions/deploy-pages@v1
+
+      - name: Display GitHub Pages URL
+        run: |
+          echo "Your GitHub Pages site is now live at:"
+          echo "https://${{ github.repository_owner }}.github.io/${{github.event.repository.name }}"

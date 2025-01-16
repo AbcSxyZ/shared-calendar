@@ -20,7 +20,7 @@ jobs:
       - name: Prepare files for GitHub Pages
         run: |
           mkdir public
-          cp calendar.html public/
+          cp calendar.html public/index.html
           cp calendar.js public/
 
       - name: Deploy to GitHub Pages
